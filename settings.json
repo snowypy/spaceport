@@ -5,6 +5,7 @@
     "port": 25000,
     "secret": "mySecret"
   },
+  "brand": "Halex.gg",
   "pterodactyl": {
     "domain": "https://panel.example.com",
     "key": "ptla_000000000000000000000000000000000"
